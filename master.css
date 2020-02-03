@@ -1,0 +1,43 @@
+h1{
+  color: #25e6d9;
+  font-family: 'Acme', sans-serif;
+  font-size: 50px;
+  font-weight:lighter;
+  font-style: normal;
+  text-align: center;
+}
+li{
+  text-align: center;
+  font-family: 'Fugaz One', cursive;
+  color: #f27405 ;
+  text-align: center;
+}
+p{
+  color:rgba(13,90,140,5);
+  text-align: center;
+}
+body{
+
+  background image-orientation: center;
+background-size: auto;
+background-clip: inherit;
+    background-repeat: no-repeat;
+}
+#single{
+  color:red;
+}
+.gaming{
+  background-image: url("brick.jpg");
+  background-position: center;
+      height: 1000px;
+      background-position: 100% 67;
+      background-size: auto, auto 100%;
+}
+
+  /*.mybackground {
+
+    background-image: image("laptop.jpg");
+background-image: url("laptop.jpg");
+    background-position: 50% 0;
+    background-size: auto, auto 100%;
+}
