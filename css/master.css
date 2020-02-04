@@ -1,0 +1,36 @@
+h5{
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.row{
+  padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+}
+
+.bd-example{
+  padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+background-color: #ffc6c7;
+}
+
+.needs-validation{
+  padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+
+}
+
+body{
+  background-color: #faeee7;
+}
+
+img.round{
+  border-radius: 30px;
+}
